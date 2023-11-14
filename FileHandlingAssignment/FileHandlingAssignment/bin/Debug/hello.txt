@@ -1,0 +1,3 @@
+welecome to c# assignment
+day-7
+assignment filehandling

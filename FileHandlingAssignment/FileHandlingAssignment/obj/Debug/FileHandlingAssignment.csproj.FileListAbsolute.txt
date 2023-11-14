@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\obj\Debug\FileHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\obj\Debug\FileHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\obj\Debug\FileHandlingAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-7 Assignment-1\FileHandlingAssignment\FileHandlingAssignment\obj\Debug\FileHandlingAssignment.pdb
